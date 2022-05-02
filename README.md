@@ -13,3 +13,4 @@ Project details:
 Scene:
 - GrabInteraction: Demo of various types of grab interactables
 - PokeInteraction: Demo of various types of poke interactables
+- RayInteraction: Demo of various types of ray interaction
