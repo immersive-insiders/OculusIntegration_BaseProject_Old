@@ -2,7 +2,7 @@
 A baseline repository for Oculus development using Oculus Integration SDK
 
 Repository Details:
-- Unity version 2020.3.31f1
+- Unity version [2020.3.31f1](unityhub://2020.3.31f1/6b54b7616050)
 - Oculus Integration version 38.0.
 - Oculus plugin version 1.11.2.
 
